@@ -14,4 +14,4 @@ And the resources I used were [MDN Docs](https://developer.mozilla.org/en-US/), 
 
 ## Live Site
 
-[Check the Live Site]()
+[Check the Live Site](https://quiz-game-js-miguelbcodes.vercel.app/)
